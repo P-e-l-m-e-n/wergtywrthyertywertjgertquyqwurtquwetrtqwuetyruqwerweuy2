@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: blue;
+}
+
+
+header {
+float: left;
+text-align: center;
+background-color:white;
+font-size: 25px;
+padding: 4px;
+}
+
+ul {
+font-size: 20px;
+color: red;
+}
+
+h1 {
+color: red;
+background-color: white;
+display: flex;
+justify-content: space-around;
+}
+
+footer {
+display: flex;
+justify-content: space-around;
+text-align: center;
+}
